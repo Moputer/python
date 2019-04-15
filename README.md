@@ -1,7 +1,7 @@
 # python
 Personal project about python
 
-## inatallation based on win10 and python3.7 pyspider
+## installation based on win10 and python3.7 pyspider
 
 Install phantomjs
 
