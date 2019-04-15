@@ -17,6 +17,3 @@ Add pyspider dependencies
 
 Since the python3.7 version is not compatible with the current version of pyspider,
 Need to change the async keyword
-'''
-pip install pyspider
-'''
